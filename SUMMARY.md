@@ -7,6 +7,7 @@
   * [\#Community 💜](notes/community.md)
   * [\#Art 🌀](notes/art.md)
   * [\#Meta 🔎](notes/meta.md)
+  * [Integrating Obsidian with GIthub](notes/obsidian-gitbook)
   * [Art Residency @ Casa do Arte](notes/art-residency.md)
   * [Moments of Connection](notes/moments-of-connection.md)
   * [Minimalist Journaling System](notes/minimalist-journaling-system.md)
