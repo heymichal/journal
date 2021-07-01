@@ -50,7 +50,7 @@ As a part of my community catalysing work in Pico, as well as this art residency
 
 {% embed url="https://pico.microsolidarity.cc/projects/evolving-experiences" %}
 
-#### Artwork Created During This Art Residency
+#### Artwork Created During Art Residency
 
 In chronological order.
 
