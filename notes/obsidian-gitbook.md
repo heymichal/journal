@@ -2,6 +2,7 @@
 description: This note is created in Obsidian.
 ---
 
+# Integrating Obsidian with Gitbook
 [Obsidian](https://obsidian.md) is one of my favourite digital tools, and I use it for most of my writing. 
 
 However, until now, my documentation projects have been written partially in Obsidian and partially directly on [Gitbook](https://gitbook.com). While I love working with Gitbook, this is not a very robust solution (no data backup), and since Gitbook doesn't have an offline mode, I need an internet connection to work on my documentation. This is not ideal, as I'd like to move more towards being offline.
