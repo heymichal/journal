@@ -42,13 +42,17 @@ I'm going to review my progress on this art residency \(in terms of objectives a
 Check out this [twitter thread](https://twitter.com/michalkorzonek/status/1409506379166007296) for regular updates from my residency.
 {% endhint %}
 
-On the second day of my residency I've met with some of my favourite creative souls in the island, to harness our energy and create something beautiful. It seems like we're on the right track ⤵️
+### Outcomes
+
+#### Performing Arts & Events Company
+
+As a part of my community catalysing work in Pico, as well as this art residency I'm co-creating a performing arts / events / experiences company. Here's the documentation ⤵️
 
 {% embed url="https://pico.microsolidarity.cc/projects/evolving-experiences" %}
 
-### Outcomes
+#### Artwork Created During This Art Residency
 
-Here's the artwork created during this Art Residency in chronological order:
+In chronological order.
 
 {% embed url="https://medium.com/@michal.korzonek/space-72a680c14733" %}
 
