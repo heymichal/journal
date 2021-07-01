@@ -8,7 +8,7 @@ description: Documenting my very first ever art residency.
 
 The primary objective of my art residency in _Casa do Arte_ is to **create a fundraising event including a performance co-created with a local community, and a display of artwork** from local artists \(including myself\).
 
-The money collected during the event would fund activities of a new performing arts & events company in Pico island, established as a result of [Pico Community Summer Gathering](https://pico.microsolidarity.cc/projects/summer-gathering-2021).
+The money collected during the event would fund activities of a [new performing arts & events company](https://pico.microsolidarity.cc/projects/evolving-experiences) in Pico island, established as a result of [Pico Community Summer Gathering](https://pico.microsolidarity.cc/projects/summer-gathering-2021).
 
 The secondary objective is to **discover and establish an online stream of funding to support my artistic career**. This is by nature a more exploratory project. I would consider it a success if by the end of my residency I have earned €100 from artwork sold via digital channels. This can include one-off purchases and/or recurring-payments alike.
 
