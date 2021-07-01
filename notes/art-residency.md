@@ -48,5 +48,11 @@ On the second day of my residency I've met with some of my favourite creative so
 
 ### Outcomes
 
+Here's the artwork created during this Art Residency in chronological order:
+
+{% embed url="https://medium.com/@michal.korzonek/space-72a680c14733" %}
+
+{% embed url="https://medium.com/@michal.korzonek/box-6ae963084a5" %}
+
 
 
