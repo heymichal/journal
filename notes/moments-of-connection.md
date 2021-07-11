@@ -28,6 +28,8 @@ I've decided to embark on a [_Create 100 Challenge_ ](https://twitter.com/visaka
 
 {% embed url="https://medium.com/@michal.korzonek/box-6ae963084a5" %}
 
+{% embed url="https://medium.com/@michal.korzonek/end-of-the-world-9cea861be8ac" %}
+
 
 
 ###  

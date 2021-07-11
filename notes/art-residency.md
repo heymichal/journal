@@ -58,5 +58,9 @@ In chronological order.
 
 {% embed url="https://medium.com/@michal.korzonek/box-6ae963084a5" %}
 
+{% embed url="https://medium.com/@michal.korzonek/end-of-the-world-9cea861be8ac" %}
+
+{% embed url="https://www.youtube.com/watch?v=vy1p1Kymmk4" %}
+
 
 
