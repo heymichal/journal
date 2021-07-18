@@ -17,6 +17,8 @@ If it's within your power to help me, then please let me know.
 3. I'm co-running a **performing** **arts & events company** in Pico with my close friends. We're using art as a language and reach the souls of locals \(natives and expats\) and travelers in this wonderful place and bring variety to the cultural scene.
 4. My **digital business is fun, simple, flexible, cheap-to-run** \(to reduce pressure to bring more money – I want to work less, not more\), and **brings enough to cover my needs, while I work on drastically reducing the amount of money I need** \(by growing my own food, and living in a tiny house\).
 
+You can track my progress through my [Moonly Reviews](https://mindjuggling.substack.com) and [documentation projects](documentation.md).
+
 If you feel the calling to support my work and **send some financial energy my way**, you certainly can:
 
 👉[ One-off contribution via Buy Me A Coffee](https://www.buymeacoffee.com/michalkorzonek)
