@@ -20,7 +20,7 @@ You can [see my documentation here](https://pico.microsolidarity.cc).
 
 ### 1. Soil, Decentralised Energy, Decentralised Connectivity
 
-#### Insights:
+#### 💡Insights:
 
 * Soil is the key to regeneration
 * I really resonate with cultivating agroforests and [Ernst Gotsch's work](https://www.youtube.com/channel/UCf9s-yeskYZweEuKyq1ia6w)
@@ -37,7 +37,7 @@ Insights from [Daniel Christian Wahl - Designing Regenerative Cultures](https://
 * Technology resembles religion on many ways - fear of death, allowing eternal life... Life is so much more powerful than technology
 * Future is unpredictable, so focus on creating conditions for emergence.
 
-#### Questions:
+#### ❓Questions:
 
 **How do we get energy on Pico?**
 
@@ -67,12 +67,12 @@ Insights from [Daniel Christian Wahl - Designing Regenerative Cultures](https://
 
 **Does the money that's coming your way resonate with what you hold dear?**
 
-#### Notes:
+#### 🗒 Notes:
 
 * [Aquaponic Farming in Pico](https://beta.thewhitelog.com/notes/aquaponic-farming)
 * [Tweet threed about an aquaponic farming project in Pico](https://twitter.com/michalkorzonek/status/1394632685461639168)
 
-#### Resources:
+#### 📚Resources:
 
 * [Decentraslised Connectivity Video Playlist](https://www.youtube.com/playlist?list=PLMAEqstRcvnuMMjyi5fUxFMXvRFzbtKd8) 
 * [Microgrids and Virtual Power Plants Video Playlist](https://www.youtube.com/playlist?list=PLMAEqstRcvntRjh5CAM10Zl3U5bN547Us)
@@ -83,7 +83,7 @@ Insights from [Daniel Christian Wahl - Designing Regenerative Cultures](https://
 
 ### 2. Ethical Technology, Digital Tools for Collective Intelligence
 
-#### Insights
+#### 💡Insights
 
 * The core problem with tech is that we're being optimized for extracting attention, and economic forces make it very difficult to escape this dynamic.
 * We're "chimps with lazers" – we need wisdom to wield our god-like technology
@@ -91,7 +91,7 @@ Insights from [Daniel Christian Wahl - Designing Regenerative Cultures](https://
 * Public parks allows very different people to gather, see each other, and coexist in the same space – way to navigate through filter bubbles online
 * Can we imagine a social network designed in a different way: to encourage the sharing of mutual understanding rather than misinformation? Instead of optimizing for raw engagement, networks like these would measure success in terms of new connections, sustained discussions, or changed opinions
 
-#### Questions
+#### ❓Questions
 
 **What would social media look like if it served the public interest?**
 
@@ -99,9 +99,9 @@ Insights from [Daniel Christian Wahl - Designing Regenerative Cultures](https://
 
 **How would a tool like** [**pol.is**](https://pol.is/home) **work in Pico?**
 
-#### Notes
+#### 🗒 Notes
 
-#### Resources
+#### 📚Resources
 
 * [Aza Raskin from the Center for Humane Technology on the impact of technology on the human condition](https://www.youtube.com/watch?v=rwURKR4TdbU)
 * [To Mend a Broken Internet, Create Online Parks](https://www.wired.com/story/to-mend-a-broken-internet-create-online-parks/)
@@ -113,31 +113,31 @@ Insights from [Daniel Christian Wahl - Designing Regenerative Cultures](https://
 
 ### 3. Decentalised Organising & Horizontal Leadership
 
-#### Insights
+#### 💡Insights
 
 * commons is community
 * business as commons: self-determined salaries based on each project + collaborative decision making
 * Changing the system deosn't make people show up differently on a Monday. Start with personal practices, evolve through informal, then finally formal experiments
 * My business works like a decentralised org, although with two people only is a different dynamic.
 
-#### Questions
+#### ❓Questions
 
 **Is there a "worky" decetralised org I'd like to be a part of?**
 
 * I'm already a part of [Enspiral](https://enspiral.org), which is a great learning place
 
-#### Notes
+#### 🗒 Notes
 
 * This is a direction I want to take for the [Evolving Experiences](https://pico.microsolidarity.cc/projects/evolving-experiences), an emerging collective of experience creators in Pico.
 
-#### Resources
+#### 📚Resources
 
 * [The future is in business as commons \| Samantha Slade \| TEDxGeneva](https://www.youtube.com/watch?v=1qkhWa9XoFo)
 * [Lean and Agile Adoption with the Laloux Culture Model, copyright Agile for all](https://www.youtube.com/watch?v=g0Jc5aAJu9g)
 
 ### 4. Co-operative Ownership
 
-#### Insights
+#### 💡Insights
 
 * Artificial scarcity is the operating principle at the core of predatory capitalism.
 * Defense mechanism to scarcity in life is denying things to others, which perpetuates the spiral
@@ -157,15 +157,15 @@ Insights from [Daniel Christian Wahl - Designing Regenerative Cultures](https://
 
 ![](../.gitbook/assets/multi-shareholder-coop.png)
 
-#### Questions
+#### ❓Questions
 
 **How could we start the tool library?**
 
 * this seems like a very tangible and easy way forward for Pico, and we already have the base structure for it within our community.
 
-#### Notes
+#### 🗒 Notes
 
-#### Resources
+#### 📚Resources
 
 * [Why Artificial Scarcity is Killing You: How Predatory Capitalism Breaks Societies, Economies, and Minds](https://eand.co/why-artificial-scarcity-is-killing-you-d19ff364c812)
 * [https://ownyourdata.foundation/](https://ownyourdata.foundation/)
@@ -175,12 +175,12 @@ Insights from [Daniel Christian Wahl - Designing Regenerative Cultures](https://
 
 ### 5. Regenerative Money
 
-#### Insights
+#### 💡Insights
 
 * Money is an agreement. We can change the agreement.
 * Once you don't need to pay rent and buy food the game suddenly changes completely.
 
-#### Questions
+#### ❓Questions
 
 **How could we create an alternative economy within the island/archipellago? How could it look like?**
 
@@ -188,25 +188,25 @@ Insights from [Daniel Christian Wahl - Designing Regenerative Cultures](https://
 
 **If a network of Azorean communities function without traditional money, how would the exchange look like?**
 
-#### Notes
+#### 🗒 Notes
 
-#### Resources
+#### 📚Resources
 
 * Money alternatives: [Seeds](https://www.joinseeds.com/), [Circles](https://circles.garden/), [Celo](https://celo.org/)
 * [Welcome to Proof of Humanity](https://youtu.be/R4-z118s-gM) 
 * [The Evolution of Money - Gold, Dollars, Bitcoin & Seeds](https://www.youtube.com/watch?v=qF5aEd0d1SI&list=PLMAEqstRcvnvaljDkr1D5BlzwltMyVgAZ&index=8)
 * [Sacred Economics Video](http://sacred-economics.com/film/)
 
-### Wrap up
+### 6. Wrap up
 
-#### Insights
+#### 💡Insights
 
 * Activism: What am I activating?
 * Sustainability is an important bridge to cross on the way to regeneration
 * Less Zoom more work in the field, connecting with neighrbours and communities and solving local problems.
 * 80/20 rule: 80 local / 20 international
 
-#### Questions
+#### ❓Questions
 
 **How could I sustain myself financially while working more within the island, rather than online?**
 
@@ -218,9 +218,9 @@ Insights from [Daniel Christian Wahl - Designing Regenerative Cultures](https://
 
 **Now that the course is over, how can I synthesise the overwhelming amount of information into something practical I can actually do with right now?**
 
-#### Notes
+#### 🗒 Notes
 
-#### Resources
+#### 📚Resources
 
 ### Insights from a sense-making call
 
