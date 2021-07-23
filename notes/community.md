@@ -8,6 +8,8 @@
 
 {% page-ref page="learning-log-regenerative-renaissance-course.md" %}
 
+{% page-ref page="tools-for-regenerative-renaissance-in-pico.md" %}
+
 
 
 ### Microsolidarity Pods & Experiments
