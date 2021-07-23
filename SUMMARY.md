@@ -7,6 +7,7 @@
   * [\#Community 💜](notes/community.md)
   * [\#Art 🌀](notes/art.md)
   * [\#Meta 🔎](notes/meta.md)
+  * [Tools For Regenerative Renaissance in Pico](notes/tools-for-regenerative-renaissance-in-pico.md)
   * [Learning Log: Regenerative Renaissance Course](notes/learning-log-regenerative-renaissance-course.md)
   * [Art Residency @ Casa do Arte](notes/art-residency.md)
   * [Moments of Connection](notes/moments-of-connection.md)
