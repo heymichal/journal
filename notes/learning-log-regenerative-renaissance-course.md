@@ -12,6 +12,8 @@ The log compiles **key insights**, **questions** for further exploration, **publ
 
 _Note: This is work in progress. I intend to keep coming back to this log and keep updating it with notes._
 
+I intend to keep my log action-focused, rather than information focused.
+
 #### About My Context:
 
 I live in Pico, a **small island in the Azores archipelago, where I am catalysing a regenerative community using microsolidarity framework**. My long-term goal is to catalyse an archipelago-wide network of regenerative communities, ideally from a sailboat ⛵️.
