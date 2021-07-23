@@ -99,6 +99,8 @@ Insights from [Daniel Christian Wahl - Designing Regenerative Cultures](https://
 
 **How would a tool like** [**pol.is**](https://pol.is/home) **work in Pico?**
 
+* I shared the toll with a candidate for local elections, who wants to shake up the old system. Let's see what happens...
+
 #### 🗒 Notes
 
 #### 📚Resources
