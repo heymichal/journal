@@ -20,6 +20,13 @@ I live in Pico, a **small island in the Azores archipelago, where I am catalysin
 
 You can [see my documentation here](https://pico.microsolidarity.cc).
 
+### Next Steps
+
+* [ ] Publish a MVP version of the Pico Project Map, based on the work done during the Pico Summer Gathering and the following field research.
+* [ ] Explore the possibility of setting up a Tool Library in Pico / Faial. Collaborate with Betty and Joseph.
+
+
+
 ### 1. Soil, Decentralised Energy, Decentralised Connectivity
 
 #### 💡Insights:
