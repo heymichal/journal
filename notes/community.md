@@ -6,6 +6,10 @@
 
 {% page-ref page="microsolidarity-in-pico.md" %}
 
+{% page-ref page="learning-log-regenerative-renaissance-course.md" %}
+
+
+
 ### Microsolidarity Pods & Experiments
 
 {% page-ref page="the-unicorns.md" %}
