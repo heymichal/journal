@@ -22,8 +22,9 @@ You can [see my documentation here](https://pico.microsolidarity.cc).
 
 ### Next Steps
 
-* [ ] Publish a MVP version of the Pico Project Map, based on the work done during the Pico Summer Gathering and field research. Consider expanding to Faial.
+* [ ] Publish a MVP version of the [Pico Project Map](https://pico.microsolidarity.cc/pico-projects-map), based on the work done during the Pico Summer Gathering and field research. Consider expanding to Faial.
 * [ ] Explore the possibility of setting up a Tool Library in Pico / Faial. Collaborate with Betty and Joseph.
+* [ ] Set up [Evolving Experiences](https://pico.microsolidarity.cc/projects/evolving-experiences) collective, as a horizontal organisation
 
 
 
