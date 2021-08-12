@@ -8,7 +8,7 @@ description: >-
 
 🌳
 
-At the end of June I sensed a Call.
+**At the end of June I sensed a Call**.
 
 It was a kind of deep feeling, a glimpse of intuition, telling me quite clearly to move into a forest. The idea resonated with me and the timing was perfect: it's summer time and I had to move out of my house anyway. But, I didn't answer the call and moved to another house.
 
@@ -17,20 +17,20 @@ But the Call was getting stronger and eventually it was not possible for me to n
 So I ditched the comfort of living in a house and moved into a forest. Here's my Forest Log, documenting the process.
 
 {% hint style="info" %}
-This is an evolving document. Get my [Moonly Review](https://mindjuggling.substack.com) for updates and magic. And if you vibe with what I create and share, and would like me to create more, then consider offering a [gift](https://buymeacoffee.com/michalkorzonek).
+This is an evolving document. Get my [Moonly Review](https://mindjuggling.substack.com) for updates and magic. And if you vibe with what I create and share, and would like me to create more, then consider offering a [gift](https://buymeacoffee.com/michalkorzonek) 💚.
 {% endhint %}
 
 ### Day 1: Leaving the house
 
 The idea is to use my car as storage and camp in a tent + hammock wherever I feel like. This way I can have different spaces in the campsite and also can have guests.
 
-**Key takeaway: There is no way of optimising the space / equipment before living the experience. I packed way too many things, and it's all kinda awkward, but I'm ok with it. I'll naturally optimize as I realise what I need.**
+**👁 Insights:** There is no way of optimising the space / equipment before living the experience. I packed way too many things, and it's all kinda awkward, but I'm ok with it. I'll naturally optimize, as I realise what I need.
 
 The first day I have a friend visiting Pico. I take them around to explore. In the evening we set camp in a public, yet secluded site in a magical forest. There's a nearby swimming spot, a shower, a toilet and a pop-up bar. The car + campsite combo works well.
 
 We end up sleeping under the stars next to the fire, watching a meteor shower.
 
-My friend teaches me a ceremonial way of starting a fire, using only a match, wood and palo santo.
+My friend shows me a ceremonial way of starting a fire, using only a match, wood and palo santo.
 
 ### Day 2: Chilling in the camp
 
@@ -86,8 +86,6 @@ During the day I draw the Hermit from the Tarot deck. Not surprising at all 😂
 
 {% embed url="https://twitter.com/michalkorzonek/status/1425814640143917065" %}
 
-
-
 Before going to bed, I spend some time lying on the ground and watching the trees and stars.
 
 ## Day 7: First Guests
@@ -113,4 +111,12 @@ We connect by the fire, share about our current life chapters and intentions we'
 Oh, and the friend who owns the land gave me permission to build some semi-permanent structures, so now I just need to get the materials and start building.
 
 Again, before going to sleep, I spend some time lying under the trees and stars and sinking into the ground. And for the first time I sleep in a hammock.At the end of June I felt a calling in my heart telling me to move
+
+
+
+–––
+
+{% hint style="info" %}
+You've reached the end of this evolving document. More entries are coming, get my  [Moonly Review](https://mindjuggling.substack.com) for updates and magic. And if you vibe with what I create and share, and would like me to create more, then consider offering a [gift](https://buymeacoffee.com/michalkorzonek) 💚.
+{% endhint %}
 
