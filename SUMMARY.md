@@ -2,6 +2,7 @@
 
 * [About ☀️](README.md)
 * [Notes 🗒](notes/README.md)
+  * [Forest Log 🌳](notes/forest-log.md)
   * [\#Body 🤸‍♀️](notes/body.md)
   * [\#Mind 🧠](notes/mind.md)
   * [\#Community 💜](notes/community.md)
