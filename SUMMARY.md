@@ -3,6 +3,7 @@
 * [About ☀️](README.md)
 * [Notes 🗒](notes/README.md)
   * [Forest Log 🌳](notes/forest-log.md)
+  * [Simple table from pallets](notes/simple-table-from-pallets.md)
   * [\#Body 🤸‍♀️](notes/body.md)
   * [\#Mind 🧠](notes/mind.md)
   * [\#Community 💜](notes/community.md)
