@@ -62,7 +62,9 @@ I pick the spot at the very edge of the land, the furthest away from his house a
 
 There's outdoors kitchen, electricity plug, water source in my friends place. My car also stays up there, as the path is not possible to drive on. Since I was planning to use my car as storage, not having it next to the site changes things a lot. My tent will have to store things, which in turn limits my living space.
 
-II think I cought a cold during my sailing day, and I feel low energy. I pick a spot, pitch a tent and sink into the forest.
+II think I caught a cold during my sailing day, and I feel low energy. I pick a spot, pitch a tent and sink into the forest.
+
+![](../.gitbook/assets/img_20210808_132021.jpg)
 
 ### Day 5: Sleep and Recovery
 
@@ -100,9 +102,13 @@ I go on a mission to drop some stuff I don't need, and find things I do need for
 
 I build the fire, set it up for cooking, and have my first guest over.
 
+![](../.gitbook/assets/img_20210811_194740.jpg)
+
 **⭐️ Achievement:** I light the fire with a lighter, candle and wood. No chemicals or paper. It takes me a while, but it feels extremely rewarding.
 
 We connect by the fire, share about our current life chapters and intentions we'd like to manifest. It feels special to be holding this space, especially since my guests are 25-27 yo and seem very receptive and curious about nature. Who knows what seeds I'm helping them plant? 🌱
+
+* [ ] Add script
 
 **⭐️ Achievement:** My guests are Portuguese. We speak in English, but I decide to share some profound things in Portuguese to practice speaking. I still can't follow deep conversations with numerous native speakers, but speaking is already a great practice.
 
@@ -110,7 +116,21 @@ We connect by the fire, share about our current life chapters and intentions we'
 
 Oh, and the friend who owns the land gave me permission to build some semi-permanent structures, so now I just need to get the materials and start building.
 
-Again, before going to sleep, I spend some time lying under the trees and stars and sinking into the ground. And for the first time I sleep in a hammock.At the end of June I felt a calling in my heart telling me to move
+Again, before going to sleep, I spend some time lying under the trees and stars and sinking into the ground. And for the first time I sleep in a hammock.
+
+### Day 8: First Rain and Digital Work
+
+I wake up to a heavy rain. I get out of the hammock naked and enjoy some water falling on my body.
+
+I go to a cafe in a near by town to do some digital work. I come back to the campsite for delivering a workshop. The internet connection is okay, so I'll be able to do all my work right from the forest.
+
+I take some time to bring pallets from a supermarket. It's a bitch to carry them all the way down to the campsite \(no car access\), but it's going to be worth it – the pallets will be my "lego bricks" to build essential structures.
+
+I have dinner \(courgettes and potatoes from the fire, and some fresh veg from the neighbour\) in my forest-mate's campsite. It's the first time I see it transformed, and wowzers, she did put some heart and effort into making it a beautiful space.
+
+* [ ] take pics of Austeja's space
+
+As usual, I sink into the soil before going to sleep. I love the forest I live in and I feel incredibly grateful to be a part of it.
 
 
 
