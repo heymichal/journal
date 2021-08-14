@@ -132,6 +132,30 @@ I have dinner \(courgettes and potatoes from the fire, and some fresh veg from t
 
 As usual, I sink into the soil before going to sleep. I love the forest I live in and I feel incredibly grateful to be a part of it.
 
+### Day 9: Building a Table & Storage Solution
+
+I wake up to a heavy rain. My tent seems to be holding up well, but there is one particular spot right above my head where an occasional drop of water falls on me. I'm not sure how it's possible. I need to investigate it further one day.
+
+A friend brought me a camping gas stove, and I enjoy a quick morning porridge and a coffee. Unfortunately the hazelnut milk went bad overnight and I poured it into my coffee before trying it... I end up making another cup and drinking it black.
+
+My fridge solution is a bucket with cold water, and it seems to work to an extend, but it's definitely not good enough to store stuff for a few days. Not a biggie. I'll look into a simple way of making small amounts of oat milk.
+
+I was originally planning to do some digital work, but it's not raining \(the forecast said heavy rain\) and frankly, I'm very frustrated with the fucking mess my tent has become.
+
+I finish my coffee and get to work.
+
+⭐️ Achievement: Building a table/storage solution from pallets.
+
+{% embed url="https://www.youtube.com/watch?v=yGrTU2lOnK0" %}
+
+Here's the instruction manual:
+
+{% page-ref page="simple-table-from-pallets.md" %}
+
+I cover the table with a waterproof tarp I sourced from a friend, to make sure all my stuff is protected from the forcasted rain. Eventually, I'll use the tarp to build a roof solution, but I feel that different components of the campsite are not yet fixed in space, and the roof is probably the last thing to do.
+
+I treat myself to a warm shower and deep stretching in my friends place and end the day sinking into the forest.
+
 
 
 –––
