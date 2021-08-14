@@ -36,6 +36,8 @@ My friend shows me a ceremonial way of starting a fire, using only a match, wood
 
 After a day of moving around my friend and I spend most of the day in the forest. Swimming, being, reading, chilling. Life is good.
 
+![](../.gitbook/assets/img_20210806_144210.jpg)
+
 I sleep in a hammock and they sleep in a tent, as the weather is unclear and there are occasional light showers. More meteor showers in the evening. It's mindblowing.
 
 Since my car and equipment is not optimized yet, I find it hard to keep things tidy, especially with another person.
@@ -60,7 +62,7 @@ This will be the first time where I'm going to be living in a forest for a longe
 
 I pick the spot at the very edge of the land, the furthest away from his house and right next to the ocean. I can feel the magic. A good friend is moving in with me, a few hundred meters away.
 
-There's outdoors kitchen, electricity plug, water source in my friends place. My car also stays up there, as the path is not possible to drive on. Since I was planning to use my car as storage, not having it next to the site changes things a lot. My tent will have to store things, which in turn limits my living space.
+There's outdoors kitchen, electricity plug, water source in my friends place. My car also stays up there, as the path down to the camp is not possible to drive on. Since I was planning to use my car as storage, not having it next to the site changes things a lot. My tent will have to store things, which in turn limits my living space.
 
 II think I caught a cold during my sailing day, and I feel low energy. I pick a spot, pitch a tent and sink into the forest.
 
