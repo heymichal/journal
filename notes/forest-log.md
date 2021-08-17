@@ -158,6 +158,36 @@ I cover the table with a waterproof tarp I sourced from a friend, to make sure a
 
 I treat myself to a warm shower and deep stretching in my friends place and end the day sinking into the forest.
 
+### Day 10: Being and Exploring
+
+The first thing I've seen as I opened my eyes in the morning was the trees, peeking through the net in my hammock. Awwwwww...
+
+🌳​🌳🌳
+
+I've had a chilled breakfast and decided to start reading a book that I felt a strong calling for:
+
+{% embed url="https://twitter.com/michalkorzonek/status/1426864200861814788" %}
+
+I have a feeling that it will help me unlock the economic model for a project I'm very excited about: [Evolving Experiences](https://pico.microsolidarity.cc/projects/evolving-experiences). And after reading the first two chapters I can tell that I won't be disappointed.
+
+I had my first semi-ceremonial cacao, relaxed in the Sun, and explored the forest around me.
+
+⭐️ **Achievement:** Found the _Fig Hill_, a small hill with an opening between the trees. The Sun always shines there, there is an almost clear ocean view, and, here's the best part: there's a small fig tree growing. It already has some fruits, but I have a feeling it won't produce much this year. In any case, I love that space and I'll keep going there to meditate.
+
+I also found a space where I could potentially move my tent to. The space is perfect, but it would require some leveling work, and potentially building foundations from pallets.
+
+In the afternoon, I left my forest to go for a swim, and then head to a retrospective session of the [Pico Sharing Circle](https://pico.microsolidarity.cc/sharing-circle/). I've added my [retro notes here](https://pico.microsolidarity.cc/sharing-circle/sharing-circle-v3#retrospective).
+
+### Day 11: Painting a Roof
+
+I spent the day away from the Forest, swimming, doing some digital work and painting a roof, which brought a surprising amount of insights.
+
+{% embed url="https://twitter.com/michalkorzonek/status/1427575880218468394" %}
+
+\([click here to read the full twitter thread](https://twitter.com/michalkorzonek/status/1427575880218468394)\).
+
+A big discovery was an amazing simple meal: brown rice + soy sauce + cayenne pepper + tomatoes \(from my friend's garden\). Oh, so delicious!
+
 
 
 –––
