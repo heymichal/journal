@@ -92,7 +92,7 @@ During the day I draw the Hermit from the Tarot deck. Not surprising at all 😂
 
 Before going to bed, I spend some time lying on the ground and watching the trees and stars.
 
-## Day 7: First Guests
+### Day 7: First Guests
 
 I wake up feeling a crazy amount of energy. I guess the lemon+ginger+cayenne combined with some forest bathing is the best medicine for me.
 
