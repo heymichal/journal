@@ -130,7 +130,7 @@ I take some time to bring pallets from a supermarket. It's a bitch to carry them
 
 I have dinner \(courgettes and potatoes from the fire, and some fresh veg from the neighbour\) in my forest-mate's campsite. It's the first time I see it transformed, and wowzers, she did put some heart and effort into making it a beautiful space.
 
-* [ ] take pics of Austeja's space
+{% embed url="https://twitter.com/michalkorzonek/status/1428773077991763974" %}
 
 As usual, I sink into the soil before going to sleep. I love the forest I live in and I feel incredibly grateful to be a part of it.
 
@@ -188,7 +188,41 @@ I spent the day away from the Forest, swimming, doing some digital work and pain
 
 A big discovery was an amazing simple meal: brown rice + soy sauce + cayenne pepper + tomatoes \(from my friend's garden\). Oh, so delicious!
 
+### Day 12: Forest Community
 
+Today a third tent popped up in the forest.
+
+I guess I can officially say that I'm living in a forest community. The power of intention is really quite incredible. Sure, it's not a piece of land I own \(which is a fucked-up concept anyway, but that's a different story\), and it's not how I expected it to unfold, but that's exactly how the magic works:
+
+When the conditions are right, It just happens, not according to the expectations, but in a flow with something undefinable and much bigger than our overintellectualised ideas of how the world and our lives should work.
+
+The day started with a swim and some digital work. When I came back to my camp, I found a lovely note:
+
+{% embed url="https://twitter.com/michalkorzonek/status/1428772019466866690" %}
+
+I spent the afternoon talking about the flow, the difficulties of letting go of the controlling mind, and the process of learning from nature.
+
+**⭐️ Achievement: I've started foraging for food. There's an edible spinach-like leafy green everywhere, and it will be fueling my salads from now on.** But the foraging is really a mindset shift: my mind is now actively engaged in looking around to find edible plants and fruits. Nature is the best "supermarket".
+
+**👁 Insight: As our forest community is growing, we've noticed a desire for having a shared main fire.** We really enjoy spending time together, but also want to maintain privacy and self-space whenever we feel like being alone. A common fire would allow us to harness the communal cooking and connection, while not invading anyone's private space
+
+### Day 13: Coffee Withdrawal
+
+Today I have no energy. It's a first day without coffee in a long time... I've spent the day eating, sleeping and reading Sacred Economics, which continues to blow my mind. Mostly because I'm already living in a gift economy.
+
+In the evening, I went for a walk to nearby town to buy some apples, and picked up a lot of wild figs \(the fig season is almost here, which makes my mouth water as I imagine the neverending supply of figs for a few weeks\). As I come back, a neighbour offered me a huge box of veg from their garden.
+
+{% embed url="https://twitter.com/michalkorzonek/status/1428311899989585922" %}
+
+**The thing about gift economy though, is that it's a circle**. This makes me think of what is it that I give freely to my island \(and beyond\) community, without any expectations of return.
+
+### Day 14: Just Being
+
+Second day of coffee withdrawal. It's not as strong as yesterday, but still not much energy. I spend the day swimming, sleeping, reading, foraging for figs and tripping on nature.
+
+{% embed url="https://twitter.com/michalkorzonek/status/1428682957666062343" %}
+
+Also, I'm noticing that I'm writing a LOT of poems in the forest. I can't judge if their any good, but I've started thinking about putting them together into some kind of book and maybe even consider publishing it for the world to see \(if anyone cares that is\). Let's see how it goes 🤔.
 
 –––
 
