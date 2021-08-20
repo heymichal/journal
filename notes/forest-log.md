@@ -224,6 +224,8 @@ Second day of coffee withdrawal. It's not as strong as yesterday, but still not 
 
 Also, I'm noticing that I'm writing a LOT of poems in the forest. I can't judge if their any good, but I've started thinking about putting them together into some kind of book and maybe even consider publishing it for the world to see \(if anyone cares that is\). Let's see how it goes 🤔.
 
+{% embed url="https://write.as/fromtheforest/" %}
+
 –––
 
 {% hint style="info" %}
