@@ -226,6 +226,66 @@ Also, I'm noticing that I'm writing a LOT of poems in the forest. I can't judge 
 
 {% embed url="https://write.as/fromtheforest/" %}
 
+### Day 15: Errands day
+
+I left the forest to take care of some things around the island.
+
+I also made some important pourchases:
+
+* A 5x8m tarp to build a roof solution to shelter myself from the coming rain
+* A few big candles
+* A spare bottle of camping gas. While I want to prioritize cooking on the fire, I still want to have an alternative option for rainy days. I'm keeping a usage log to understand how many times I can use a single bottle before it runs out.
+
+A friend from whom I borrowed a hammock requested it back, so unfortunatelly I had to say goodbye to this [high-tech badboy](https://eu.hennessyhammock.com/products/expedition-asym-classic). I'm totally sold on it, though, and when I'll have some spare "equipment money" I might make an investment. In the meantime I'll have to live with my tent, and an old summer hammock bought in Greece long time ago, which is arriving soon with a parcel from my family home. It doesn't work that well for sleeping, but it's perfect for reading books and chilling during the day.
+
+In the evening I went to a talk "living sustainably with the land". It's great to get inspired by amazing project from around the world and see how they can be applied to my local context.
+
+I also got inspired to give a talk / workshop about microsolidarity and how I've been working with it in Pico. I feel that it's a good moment to add some energy into my community building efforts \([documentation](https://pico.microsolidarity.cc)\), especially since we'll be starting to put some energy into our next gathering soon.
+
+🤔
+
+### Day 16: Building the Roof
+
+**⭐️ Achievement: I've done some major improvements to the camp today.**
+
+1️⃣ **I've upgraded my fire space** by securing the bottom of the firepit with small stones. The space around me is all covered with roots, so it's improtant to make sure they don't catch fire underground, as the embers glow deep into the soil.
+
+I've also created this [twitter thread about working with fire](https://twitter.com/michalkorzonek/status/1429440642246193157?s=21).
+
+2️⃣ **I now have a MVP roof.** It's not the prettiest, but it works for now. I'll upgrade it with time.
+
+{% embed url="https://twitter.com/michalkorzonek/status/1429170859470737409?s=21" %}
+
+In the evening, I've reflected a little bit on the process of setting up essential components of my camp. Here's the order I think I'd follow:
+
+1. Tent \(sleep\)
+2. Water
+3. Toilet
+4. Storage
+5. Fire \(cooking\)
+6. Rain Shelter
+7. Electricity
+
+### Day 17: Full Moon 🌕
+
+The rain came and I spent the morning doing some digital work under my new roof. It worked perfectly well!
+
+Here's my Moonly Review ⤵️
+
+{% embed url="https://mindjuggling.substack.com/p/moonly-review-forest-guardian" %}
+
+In the afternoon I spent some time with a friend I'm hoping to have as my neighbour. We collected some bananas, tomatoes and figs, and talked about electrical needs of our future tiny houses.
+
+In the evening I had a little Full Moon ceremony with setting very clear intention for the next part of the cycle:
+
+1. Find the Land
+2. Buy the Land
+3. Move into the Land
+
+🤞
+
+When I came back to the camp, I've had a fire with my forest neighbours. It's such a beautiful place to be. I'm feeling so super grateful!
+
 –––
 
 {% hint style="info" %}
