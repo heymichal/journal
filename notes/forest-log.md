@@ -322,7 +322,7 @@ After seeing my efforts, one of my forest neighbours shared his reflection:
 
 The first tarp was a "0.5". The second one \(so far\) looks like a "2". Nature is "one hundred". He advised to make my tarp at least "5". Of course it won't survive a hurricane, but it's a 5%, which is more than double from "2".
 
-I'm keeping this in mind as I build my forest home.
+I'll keep this in mind as I build my forest home.
 
 –––
 
