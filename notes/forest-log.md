@@ -286,6 +286,40 @@ In the evening I had a little Full Moon ceremony with setting very clear intenti
 
 When I came back to the camp, I've had a fire with my forest neighbours. It's such a beautiful place to be. I'm feeling so super grateful!
 
+### Day 18: Solo
+
+I woke up in the middle of the night to my tarp making a lot of noise. The wind changed the shape of the tarp and some water got stuck and ended up being to heavy for some strings holding the sides of the tarp in place.
+
+I got out of the tent and added some reinforcing strings all around. It felt like a lesson in solo sailing: here I am, in the middle of the elements, trying to make a fix, and I could really use an extra pair of hands. But I'm alone. And the wind keeps on blowing, completely unaffected by my struggles.
+
+This actually inspired this poem:
+
+[https://write.as/fromtheforest/the-wind](https://write.as/fromtheforest/the-wind)
+
+The lesson here though, is that everything is possible, and eventually, after a time of struggle, I managed to fix my tarp for the night and went back to sleep.
+
+I've spent the day away from the camp, doing some digital work. Came back for dinner and had some potatoes baked in the fire.
+
+### Day 19: Nature is a "hundred"
+
+At night the wind changed direction by 180 degrees.
+
+My tarp was totally not ready for this, and after some huffing and puffing a few grommets ripped. I had to get out of my tent in the middle of a squall to take the tarp down to protected from ripping completely.
+
+I felt a little bit like Lt. Dan in _Forrest Gump_ taking on a storm:
+
+{% embed url="https://www.youtube.com/watch?v=0Doyh7gGeoo" %}
+
+When I returned to the tent, all soaked, I've spent a few hours researching how to setup a tarp for heavy weather. I found [this article](https://survivalcommonsense.com/pitch-a-tarp-to-survive-in-heavy-winds/) very helpful, and also came across "[the Gorilla Hut](https://www.buildgorillahut.com/)", which became a running joke in my forest community.
+
+During the day, I've started the process of building my roof 2.0, which I wanted to put much more thinking into, to make sure it survives for longer than two days.
+
+After seeing my efforts, one of my forest neighbours shared his reflection:
+
+The first tarp was a "0.5". The second one \(so far\) looks like a "2". Nture is "one hundred". He advised to make my tarp at least "5". Of course it won't survive a hurricane, but it's a 5%, which is more than double from "2".
+
+I'm keeping this in mind as I build my forest home.
+
 –––
 
 {% hint style="info" %}
