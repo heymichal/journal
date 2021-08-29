@@ -288,17 +288,19 @@ When I came back to the camp, I've had a fire with my forest neighbours. It's su
 
 ### Day 18: Solo
 
-I woke up in the middle of the night to my tarp making a lot of noise. The wind changed the shape of the tarp and some water got stuck and ended up being to heavy for some strings holding the sides of the tarp in place.
+I woke up in the middle of the night to my tarp making a lot of noise. 
+
+The wind changed the shape of the tarp and some water got stuck and ended up being to heavy for some strings holding the sides of the tarp in place.
 
 I got out of the tent and added some reinforcing strings all around. It felt like a lesson in solo sailing: here I am, in the middle of the elements, trying to make a fix, and I could really use an extra pair of hands. But I'm alone. And the wind keeps on blowing, completely unaffected by my struggles.
 
-This actually inspired this poem:
+Which inspired this poem:
 
 {% embed url="https://write.as/fromtheforest/the-wind" %}
 
 The lesson here though, is that everything is possible, and eventually, after a time of struggle, I managed to fix my tarp for the night and went back to sleep.
 
-I've spent the day away from the camp, doing some digital work. Came back for dinner and had some potatoes baked in the fire.
+I've spent the day away from the camp, doing some digital work. Came back for dinner and had some potatoes baked in the fire. My Slavic self was happy 🥔.
 
 ### Day 19: Nature is a "hundred"
 
@@ -306,7 +308,9 @@ At night the wind changed direction by 180 degrees.
 
 My tarp was totally not ready for this, and after some huffing and puffing a few grommets ripped. I had to get out of my tent in the middle of a squall to take the tarp down to protected from ripping completely.
 
-I felt a little bit like Lt. Dan in _Forrest Gump_ taking on a storm:
+\(btw, _grommet_ is my new favourite word in English.\)
+
+I felt a little bit like Lt. Dan in "_Forrest Gump"_ taking on a storm:
 
 {% embed url="https://www.youtube.com/watch?v=0Doyh7gGeoo" %}
 
