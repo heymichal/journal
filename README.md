@@ -10,6 +10,8 @@ I'm also **documenting the process** for the benefit of all beings. ✨
 
 This is my digital journal.
 
+\(My [personal website is here](https://michalkorzonek.com).\)
+
 {% hint style="info" %}
 I'm still figuring out the role of this space in my digital ecosystem. At the moment I'm experimenting with making it a complimentary space to my [personal website](https://michalkorzonek.com), because I want something more bloggish, I'm done working with Wordpress, and I'm not keen on spending more time to learn how to code atm.  
   
