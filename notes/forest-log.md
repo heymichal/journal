@@ -312,11 +312,15 @@ I felt a little bit like Lt. Dan in _Forrest Gump_ taking on a storm:
 
 When I returned to the tent, all soaked, I've spent a few hours researching how to setup a tarp for heavy weather. I found [this article](https://survivalcommonsense.com/pitch-a-tarp-to-survive-in-heavy-winds/) very helpful, and also came across "[the Gorilla Hut](https://www.buildgorillahut.com/)", which became a running joke in my forest community.
 
+![Back to sleep face.](../.gitbook/assets/2021-08-29-12.52.48.jpg)
+
+![Yeah...Definitely needs some work](../.gitbook/assets/2021-08-29-12.53.46.jpg)
+
 During the day, I've started the process of building my roof 2.0, which I wanted to put much more thinking into, to make sure it survives for longer than two days.
 
 After seeing my efforts, one of my forest neighbours shared his reflection:
 
-The first tarp was a "0.5". The second one \(so far\) looks like a "2". Nture is "one hundred". He advised to make my tarp at least "5". Of course it won't survive a hurricane, but it's a 5%, which is more than double from "2".
+The first tarp was a "0.5". The second one \(so far\) looks like a "2". Nature is "one hundred". He advised to make my tarp at least "5". Of course it won't survive a hurricane, but it's a 5%, which is more than double from "2".
 
 I'm keeping this in mind as I build my forest home.
 
