@@ -294,7 +294,7 @@ I got out of the tent and added some reinforcing strings all around. It felt lik
 
 This actually inspired this poem:
 
-[https://write.as/fromtheforest/the-wind](https://write.as/fromtheforest/the-wind)
+{% embed url="https://write.as/fromtheforest/the-wind" %}
 
 The lesson here though, is that everything is possible, and eventually, after a time of struggle, I managed to fix my tarp for the night and went back to sleep.
 
